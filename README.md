@@ -12,6 +12,7 @@ sudo mv nope.js /usr/local/bin/nope
 sudo chmod +x /usr/local/bin/nope
 
 nope app.js
+> I would rather not to
 ```
 
 
