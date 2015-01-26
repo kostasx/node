@@ -8,8 +8,8 @@ Nope.JS relies heavily on the [Bartleby.JS](http://www.bartleby.com/129/) librar
 **Installation Instructions** (Mac/Linux)
 
 ```bash
-chmod u+x nope.js
 sudo mv nope.js /usr/local/bin/nope
+sudo chmod +x /usr/local/bin/nope
 
 nope app.js
 ```
